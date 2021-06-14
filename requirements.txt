@@ -1,0 +1,4 @@
+pandas
+functions-framework
+google-cloud-storage
+matplotlib
